@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0 tvg-country="CM" tvg-logo="https://i.imgur.com/FekWmTu.jpg" group-title="Undefined",Vision 4
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8?checkedby:iptvcat.com
